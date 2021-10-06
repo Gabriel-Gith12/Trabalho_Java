@@ -8,8 +8,8 @@ Instrução de como realizar o download dos arquivos Necessário.
 
 2-Faça o download de um servidor que possa ter conectividade com o Banco de Dados. Eu recomenco o XAMPP. https://www.apachefriends.org/index.html.
 
-4-Faça o download da pasta estoqueMercadinhoNatalino que contem os arquivos .java e o arquivo estoquemercadinho.sql para inportar para o Banco de Dados.
+3-Faça o download da pasta estoqueMercadinhoNatalino que contem os arquivos .java e o arquivo estoquemercadinho.sql para inportar para o Banco de Dados.
 
-5- Em seguida , depois que ter baixado XAMPP , inicialize os modulos Apache e MySql.
+4- Em seguida , depois que ter baixado XAMPP , inicialize os modulos Apache e MySql.
 
-6- Em seguida, depois que ter baixado, inicialize o Netbeans em seguida clique em File , open Project...(Ctrl + Shift-O) e escolher o lugar aonde foi baixado o Arquivo e clicar em Open Project.
+5- Em seguida, depois que ter baixado, inicialize o Netbeans em seguida clique em File , open Project...(Ctrl + Shift-O) e escolher o lugar aonde foi baixado o Arquivo e clicar em Open Project.
