@@ -12,4 +12,4 @@ Instrução de como realizar o download dos arquivos Necessário.
 
 4- Em seguida , depois que ter baixado XAMPP , inicialize os modulos Apache e MySql.
 
-5- Em seguida, depois que ter baixado, inicialize o Netbeans em seguida clique em File , open Project...(Ctrl + Shift-O) e escolher o lugar aonde foi baixado o Arquivo e clicar em Open Project.
+5- Em seguida, depois que ter baixado os arquivos, inicialize o Netbeans em seguida clique em File , open Project...(Ctrl + Shift-O) e escolher o lugar aonde foi baixado o Arquivo e clicar em Open Project.
