@@ -1,6 +1,6 @@
 # Trabalho_Java
 
-Codigo desenvolvido com o objetivo de auxiliar no controle de estoque com a capacidade de controlar entrada e saida de produtos contendo o saldo de cada produto (entrada - saida) de um produto
+Codigo desenvolvido com o objetivo de auxiliar no controle de estoque com a capacidade de controlar entrada e saida de produtos contendo o saldo de cada produto (entrada - saida).
 
 Instrução de como realizar o download dos arquivos Necessário.
 
